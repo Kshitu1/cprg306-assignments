@@ -10,6 +10,9 @@ const HomePage = () => {
       <p>
         Go to <Link href="/week-3">Week 3</Link> assignments. 
       </p>
+      <p>
+        Go to <Link href="/week-4">Week 4</Link> assignments.
+      </p>
     </div>
   );
 };
