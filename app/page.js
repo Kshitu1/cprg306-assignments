@@ -13,6 +13,9 @@ const HomePage = () => {
       <p>
         Go to <Link href="/week-4">Week 4</Link> assignments.
       </p>
+      <p>
+        Go to <Link href="/week-5">Week 5</Link> assignments.
+      </p>
     </div>
   );
 };
