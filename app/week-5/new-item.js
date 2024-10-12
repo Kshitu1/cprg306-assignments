@@ -1,4 +1,3 @@
-// /app/week-5/new-item.js
 
 'use client'; // This directive enables client-side rendering
 import { useState } from 'react';
